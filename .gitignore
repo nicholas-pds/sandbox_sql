@@ -28,3 +28,9 @@ obj/
 # Backup files
 *.bak
 *.log
+
+# Claude Code session state
+.claude/
+
+# Generated Excel report output
+*.xlsx
